@@ -41,4 +41,4 @@ refer to lectures 9 and 10 to understand what DPLL is
 
 You are free to look up and study other online resources if you find anything helpful, but the above are more than sufficient to finish the project.
 
-
+(I made a small mistake as a result of which you can technically access week 3 week 4 materials early. )
